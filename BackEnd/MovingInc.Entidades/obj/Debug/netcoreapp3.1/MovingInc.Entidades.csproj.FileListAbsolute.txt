@@ -1,0 +1,9 @@
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\bin\Debug\netcoreapp3.1\MovingInc.Entidades.deps.json
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\bin\Debug\netcoreapp3.1\MovingInc.Entidades.dll
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\bin\Debug\netcoreapp3.1\MovingInc.Entidades.pdb
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\obj\Debug\netcoreapp3.1\MovingInc.Entidades.AssemblyInfoInputs.cache
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\obj\Debug\netcoreapp3.1\MovingInc.Entidades.AssemblyInfo.cs
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\obj\Debug\netcoreapp3.1\MovingInc.Entidades.csproj.CoreCompileInputs.cache
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\obj\Debug\netcoreapp3.1\MovingInc.Entidades.dll
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\obj\Debug\netcoreapp3.1\MovingInc.Entidades.pdb
+D:\Tech-Solve\MovingInc\MovingInc.Entidades\obj\Debug\netcoreapp3.1\MovingInc.Entidades.csprojAssemblyReference.cache
